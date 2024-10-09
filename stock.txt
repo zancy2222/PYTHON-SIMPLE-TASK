@@ -1,0 +1,18 @@
+1,Bibingka,25
+2,Puto Sa Dahon,25
+3,Plain Suman,24
+4,Nilambiran,25
+5,Moron,10
+6,Cassava Suman,25
+7,Tupig,25
+8,Espasol,25
+9,Puto Bignas,25
+10,Calamay,25
+11,Puto Maya,25
+12,Sapin-Sapin,25
+13,Biko,25
+14,Ube Halaya,25
+15,Ube Rice Cake,25
+16,Maja Blanca,25
+17,Kutsinta,25
+18,Cassava Cake,25
